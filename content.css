@@ -1,0 +1,48 @@
+body{
+    background-color: antiquewhite;
+}
+header ul {
+    position: relative;
+    top: 10px;
+    left: 50px;
+    line-height: 20px;
+    list-style: none;
+}
+header ul a{
+    border: 5px;
+    background-color: orange;
+    border-style:outset;
+    border-radius: 5px;
+    border-color: orange;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+header ul a:hover {
+    text-decoration: underline;
+}
+header h1 {
+    position: relative;
+    top: 5px;
+    left: 50px;
+    line-height: 60px;
+    font-family: "宋体";
+    font-size: 50px;
+}
+.title{
+    position: relative;
+    top: 5px;
+    left: 50px;
+    line-height: 30px;
+    font-family: "宋体";
+    font-size: 35px;
+}
+
+.para{
+    position: relative;
+    top: 5px;
+    left: 5px;
+    right: 30px;
+    line-height: 30px;
+    font-family: "宋体";
+    font-size: 15px;
+}
